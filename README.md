@@ -17,6 +17,8 @@ Este projeto é simples e serve apenas como material didático para demonstraç�
    git clone https://github.com/otiliadb/ProjetoAntigo.git
 2. Importe o projeto para a IDE escolhida
 
+3. #algumas informações sobre esse repositório
+
 
 ## Boas práticas com Git / GitHub
 
